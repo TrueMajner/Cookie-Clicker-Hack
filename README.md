@@ -64,6 +64,6 @@ Game.ObjectsById[x].amount=number;
 <h4 align="center">Любой ник.</h4> 
   
 ```javascript
-Game.bakeryName="Что угодно /1/2/21!12341254,.,,./ 8 sjadisjai dsjdij sad";
+Game.bakeryName="Что угодно /1/2/21!12341254,.,,./ 8 sjadisjai dsjdij sad"; //Тут замените на свой нужный ник
 Game.bakeryNameRefresh();
 ```
