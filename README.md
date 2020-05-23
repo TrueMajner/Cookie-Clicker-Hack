@@ -60,3 +60,9 @@ Game.ObjectsById[x].amount=number;
 - 14 - Chancemaker  
 - 15 - Fractal Enige  
 - 16 - Консоль JS  
+
+<h4 align="center">Любой ник.</h4> 
+```javascript
+Game.bakeryName="Что угодно /1/2/21!12341254,.,,./ 8 sjadisjai dsjdij sad";
+Game.bakeryNameRefresh();
+```
