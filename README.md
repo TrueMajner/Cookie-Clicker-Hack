@@ -27,6 +27,7 @@ Game.cookies = number;
 
 <h4 align="center">Бизнесы.</h4> 
 Получить все бизнесы в кол-ве N :
+  
 ```javascript
 for(i = 0; i < 17; i ++) {
 Game.ObjectsById[i].amount=number;
