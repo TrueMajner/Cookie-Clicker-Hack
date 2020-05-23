@@ -34,3 +34,10 @@ Game.ObjectsById[i].amount=number;
 }
 ``` 
 Где number - любое целое число.
+  
+Получить бизнес номер X в кол-ве N :
+  
+```javascript
+Game.ObjectsById[x].amount=number;
+``` 
+Где number - любое целое число, x - целое число от 0 до 17 включительно.
