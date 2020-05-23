@@ -25,10 +25,11 @@ Game.cookies = number;
 Где number - любое целое число.
   
 
-<h4 align="center">Получить все бизнесы в кол-ве N</h4>  
+<h4 align="center">Бизнесы.</h4> 
+Получить все бизнесы в кол-ве N :  
 ```javascript
 for(i = 0; i < 17; i ++) {
 Game.ObjectsById[i].amount=number;
 }
-```  
+```
 Где number - любое целое число.
