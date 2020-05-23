@@ -30,5 +30,5 @@ Game.cookies = number;
 for(i = 0; i < 17; i ++) {
 Game.ObjectsById[i].amount=number;
 }
-```  
+```
 Где number - любое целое число.
